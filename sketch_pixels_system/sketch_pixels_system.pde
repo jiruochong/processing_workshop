@@ -15,7 +15,7 @@ int threshold2 = 100;
 void setup() {
   //size(647, 404, P3D);
   size(640, 360, P3D);
-  img  = loadImage("mask.png"); // Load the image
+  img  = loadImage("8391638934996_.pic_hd.png"); // Load the image
   cols = width/cellsize1;             // Calculate # of columns
   rows = height/cellsize1;            // Calculate # of rows
   println(img.width, img.height);
