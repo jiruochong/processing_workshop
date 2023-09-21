@@ -1,2 +1,1 @@
-
-![wz7ku-1be86](https://github.com/jiruochong/processing_workshop/assets/142318719/e93daa8d-e2b9-4e49-9236-06ce84a16901)
+![3clm0-bc2yc](https://github.com/jiruochong/processing_workshop/assets/142318719/cf98cb85-e917-454b-b05f-2ed432395f28)
