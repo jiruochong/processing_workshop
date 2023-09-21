@@ -15,8 +15,6 @@ The *sketch_createtexture* program output.
 
 ## project 3 ice voronoi : 
 
-[ice voronoi]
-(https://editor.p5js.org/kachakacha/full/7abchp3N0)
+[Ice Voronoi](https://editor.p5js.org/kachakacha/full/7abchp3N0)
 
-This program of mine is saved in[p5.js]
-(https://p5js.org/)
+This program of mine is saved in [p5.js](https://p5js.org/)
