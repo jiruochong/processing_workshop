@@ -14,5 +14,11 @@ The *sketch_createtexture* program output.
 ![shuttle_texture_1558](https://github.com/jiruochong/processing_workshop/assets/142318719/16898646-6bdb-4365-b154-04b4d432a283)
 
 ## project 3 ice voronoi : 
-<div><iframe src="https://editor.p5js.org/kachakacha/full/7abchp3N0"></iframe></div>
-This  program of mine is saved in [p5.js](https://p5js.org/).
+
+[ice voronoi]
+(https://editor.p5js.org/kachakacha/full/7abchp3N0)
+
+This  program of mine is saved in[p5.js]
+(https://p5js.org/)
+
+[ice voronoi](src="https://editor.p5js.org/kachakacha/full/7abchp3N0")
