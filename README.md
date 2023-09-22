@@ -1,8 +1,18 @@
 # processing_workshop
 This is my prossesing workshop. Inside are some code for my generative artworks.
 
-This is one of my examples of generative art works. 
-For example 
+## What is Processing :
+Processing is an open-source programming environment designed to facilitate visual arts, data visualization, and creative coding. It aims to help artists, designers, students, and programmers easily create interactive works. It can be used for creative coding, graphic design, animation, music composition, data visualization, and more.
+Key features and uses include but are not limited to:
+1. **Creative Coding**: Processing provides a simple and understandable programming syntax and functions that allow users to quickly realize their creative ideas.
+2. **Graphics and Animation**: It can be used to create static images, animations, and interactive graphics. You can draw various geometric shapes, perform image processing, and create dynamic effects on the screen.
+3. **Interaction Design**: Processing supports the creation of interactive works, such as responding to mouse, keyboard, or touch input.
+4. **Music and Sound**: You can generate music, sound effects, and even synchronize them with graphics and animations using Processing.
+5. **Education and Learning**: Processing is highly suitable for educational purposes, helping students understand basic programming concepts and creative expression.
+In summary, Processing is a powerful tool used for creative expression and the realization of various art and tech projects.
+
+**This is one of my examples of generative art works.**  
+For example:
 
 ## project 1 ribbon line : 
 The *sketch_ribbon_line* program output.
