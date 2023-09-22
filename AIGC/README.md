@@ -4,3 +4,9 @@
 **platform** : Discord   
 *manual modification*  
 ![](./white_cloud_and_dog1.jpg#pic_center)
+
+## gushen 1-2; 
+**prompt** : ;   
+**platform** : Discord   
+![](./gushen1.png#pic_center)
+
