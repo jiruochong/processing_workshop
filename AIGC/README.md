@@ -11,7 +11,6 @@
 **prompt1&2** : https://s.mj.run/4WMUaRBtoIY, https://s.mj.run/WJKni9S0LRE, hanfu, Fairy of the Valley, Goddess, Inclusiveness, Ever-changing, Eternal, Mysterious, Dexterous hands, Motherly, Root, Origin of life, Infinite, Beginning, Primordial essence, https://s.mj.run/JwsiJBxTzys, A group of animals in the seaside, Hayao Miyazaki, 3d, ultra-detailed, C4D, 8K, HD --niji 5 --style expressive --niji 5, - Image #1;   
 **platform** : nijijiourney@Discord   
 ![](./gushen1.png#pic_center)
-
 **prompt5** :https://s.mj.run/4WMUaRBtoIY, https://s.mj.run/WJKni9S0LRE, hanfu, Fairy of the Valley, Goddess, Inclusiveness, Ever-changing, Eternal, Mysterious, Motherly, Root, Origin of life, Infinite, Beginning, Primordial essence, https://s.mj.run/JwsiJBxTzys, A group of animals in the seaside, Hayao Miyazaki, 3d, ultra-detailed, C4D, 8K, HD --niji 5 --style expressive --niji 5, - Image #3
 **platform** : nijijiourney@Discord   
 
